@@ -1,4 +1,4 @@
-{"spider":"https://gitee.com/fyj2xzq/vv/raw/master/maoz.jar",
+{"spider":"https://github.com/fyj2xzq/vv/raw/master/maoz.jar",
  "sites":[
 {"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"},
 {"key":"新浪资源","name":"新浪资源(切)","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable":1,"quickSearch":1},
