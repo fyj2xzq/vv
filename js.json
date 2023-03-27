@@ -251,6 +251,7 @@
 {"host":"zjmiao.com","rule":["play.videomiao.vip/API.php","time=","key=","path="]}],
 "parses":[
 {"name":"777","type":0,"url":"https://jx.777jiexi.com/player/?url="},
+{ "name": "猫影视","type": 1,"url": "http://jm.maoyingshi.cc/yunxing.php?url="},
 {"name":"杰森","type":0,"url":"https://jx.jsonplayer.com/player/?url="}, 
 {"name":"战狼","type":0,"url":"https://jx.zhanlangbu.com/?url="},
 {"name":"ok","type":0,"url":"https://okjx.cc/?url="},
