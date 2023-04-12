@@ -4,7 +4,6 @@
 		{"key":"新浪云资源","name":"新浪云资源(切)","type":1,"api":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlyun/","searchable":1,"quickSearch":1},
 		{"key":"量子资源","name":"量子资源(切)","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 		{"key":"量子云资源","name":"量子云资源(切)","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/from/liangzi/","searchable":1,"quickSearch":1},
-		{"key":"363影视","name":"363影视(切)","type":1,"api":"https://lzrjk.hao363.com//api.php/v1.vod/","searchable":1,"quickSearch":1},
 		{"key":"天空资源","name":"天空资源(切)","type":1,"api":"https://api.tiankongapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 	        {"key":"农民","name":"农民[js]","type":3,"api":"https://download.kstore.space/download/4164/maoz/lib/drpy2.min.js","ext":"https://download.kstore.space/download/4164/maoz/js/农民.js"},
 		{"key":"相声小品","name":"相声小品","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://download.kstore.space/download/4164/maoz/js/相声小品.js"},
